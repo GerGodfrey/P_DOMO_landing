@@ -6,7 +6,7 @@ import Register from './Register';
 const Hero = () => {
 
     const [showModal, setShowModal] = React.useState(false);
-
+     
 
     return (
 

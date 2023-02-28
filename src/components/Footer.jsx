@@ -14,7 +14,7 @@ const Footer = () =>(
             />
 
             <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-                Una nueva forma de acceder al mercado inmobiliario.
+                La nueva forma de acceder al mercado inmobiliario.
             </p>
             </div>
 

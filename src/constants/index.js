@@ -19,6 +19,8 @@ export const navLinks = [
 ];
 
 
+
+
 export const stats = [
     {
       id: "stats-1",
@@ -163,25 +165,9 @@ export const footerLinks = [
       title: "Useful Links",
       links: [
         {
-          name: "Contenido",
-          link: "https://domopro.xyz/content/",
-        },
-        {
-          name: "Cómo funciona",
-          link: "https://domopro.xyz/how-it-works/",
-        },
-        {
           name: "Registrar un inmueble",
-          link: "https://domopro.xyz/create/",
-        },
-        {
-          name: "Explorar inmuebles",
-          link: "https://domopro.xyz/explore/",
-        },
-        {
-          name: "Terms & Services",
-          link: "https://domopro.xyz/terms-and-services/",
-        },
+          url: "https://registro.domopro.xyz",
+        }
       ],
     },
     {
@@ -189,24 +175,24 @@ export const footerLinks = [
       links: [
         {
           name: "Centro de dudas",
-          link: "https://domopro.xyz/help-center/",
+          url: "https://domopro.xyz/help-center/",
         },
-        {
-          name: "Partners",
-          link: "https://domopro.xyz/partners/",
-        },
-        {
-          name: "Sugerencias",
-          link: "https://domopro.xyz/suggestions/",
-        },
-        {
-          name: "Blog",
-          link: "https://domopro.xyz/blog/",
-        },
-        {
-          name: "Newsletters",
-          link: "https://domopro.xyz/newsletters/",
-        },
+        // {
+        //   name: "Partners",
+        //   url: "https://domopro.xyz/partners/",
+        // },
+        // {
+        //   name: "Sugerencias",
+        //   link: "https://domopro.xyz/suggestions/",
+        // },
+        // {
+        //   name: "Blog",
+        //   link: "https://domopro.xyz/blog/",
+        // },
+        // {
+        //   name: "Newsletters",
+        //   link: "https://domopro.xyz/newsletters/",
+        // },
       ],
     },
     {
